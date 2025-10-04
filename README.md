@@ -45,18 +45,6 @@ This repository contains a **Power BI dashboard** analyzing sales performance, i
 
 ---
 
-## 📂 Repository Structure  
-📁 Blinkit-Analysis
-┣ 📊 Dashboard.pbix # Power BI file
-┣ 🖼️ Blinkit analysis.png # Dashboard preview image 1
-┣ 🖼️ Blinkit analysis 2.png # Dashboard preview image 2
-┗ 📄 README.md # Documentation
-
-yaml
-Copy code
-
----
-
 ## 📢 How to Use  
 1. Clone this repository.  
 2. Open the `.pbix` file in **Power BI Desktop**.  
