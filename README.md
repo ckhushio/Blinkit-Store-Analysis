@@ -3,7 +3,7 @@
 This repository contains a **Power BI dashboard** for Blinkit, India's last-minute grocery app, visualizing item sales, ratings, and outlet performance metrics.
 
 ---
-![Alt Text](images/your-image.png)
+![Alt Text](Blinkit analysis.png)
 ## Overview
 
 The dashboard provides insights into Blinkit's sales performance, highlighting:
